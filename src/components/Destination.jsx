@@ -29,9 +29,21 @@ const Destination = () => {
             </span>
           </div>
         </div>
-        <div className='flex pt-[40px] pr-[24px] pb-[40px] pl-[24px] flex-col gap-[24px] justify-center items-center self-stretch grow shrink-0 basis-0 flex-nowrap bg-[url(../assets/images/e4a4da5e4767e8238bcf9e140158183e8f7b512b.png)] bg-cover bg-no-repeat relative overflow-hidden z-[15]' />
-        <div className='flex pt-[40px] pr-[24px] pb-[40px] pl-[24px] flex-col gap-[24px] justify-center items-center self-stretch grow shrink-0 basis-0 flex-nowrap bg-[url(../assets/images/f20263872bae26fd4986d2f0d86481b36584265d.png)] bg-cover bg-no-repeat relative overflow-hidden z-[16]' />
-        <div className='flex pt-[40px] pr-[24px] pb-[40px] pl-[24px] flex-col gap-[24px] justify-center items-center self-stretch grow shrink-0 basis-0 flex-nowrap bg-[url(../assets/images/c83d98f30db4253e92e76618b36b9e3747bcc7c6.png)] bg-cover bg-no-repeat relative overflow-hidden z-[17]' />
+        <div className='flex pt-[40px] pr-[40px] pb-[40px] pl-[40px] flex-col gap-[16px] justify-end items-start self-stretch grow shrink-0 basis-0 flex-nowrap bg-[url(../assets/images/e4a4da5e4767e8238bcf9e140158183e8f7b512b.png)] bg-cover bg-no-repeat relative overflow-hidden z-[15]'>
+          <span className="h-[34px] self-stretch shrink-0 basis-auto font-['Inter'] text-[28px] font-semibold leading-[33.6px] text-[#fff] relative text-left whitespace-nowrap z-[11]">
+              Bunaken Sea
+            </span>
+            <span className="flex w-[216px] h-[84px] justify-start items-start self-stretch shrink-0 font-['Inter'] text-[20px] font-normal leading-[28px] text-[#fff] relative text-left z-[12]">
+              Lorem ipsum dolor sit amet consectetur. In at amet semper
+            </span>
+            <div className='flex pt-[16px] pr-[40px] pb-[16px] pl-[40px] gap-[16px] justify-center items-center self-stretch shrink-0 flex-nowrap rounded-[8px] border-solid border border-[#fff] relative z-[13]'>
+              <span className="h-[22px] shrink-0 basis-auto font-['Inter'] text-[16px] font-normal leading-[22px] text-[#fff] tracking-[-0.32px] relative text-left whitespace-nowrap z-[14]">
+                View details
+              </span>
+            </div>
+        </div>
+        <div className='flex pt-[40px] pr-[40px] pb-[40px] pl-[40px] flex-col gap-[16px] justify-end items-start self-stretch grow shrink-0 basis-0 flex-nowrap  bg-[url(../assets/images/f20263872bae26fd4986d2f0d86481b36584265d.png)] bg-cover bg-no-repeat relative overflow-hidden z-[16]' />
+        <div className='flex pt-[40px] pr-[40px] pb-[40px] pl-[40px] flex-col gap-[16px] justify-end items-start self-stretch grow shrink-0 basis-0 flex-nowrap  bg-[url(../assets/images/c83d98f30db4253e92e76618b36b9e3747bcc7c6.png)] bg-cover bg-no-repeat relative overflow-hidden z-[17]' />
       </div>
       <div className='flex w-[44px] gap-[4px] items-start shrink-0 flex-nowrap relative z-[18]'>
         <div className='w-[8px] h-[8px] shrink-0 bg-[url(../assets/images/81a8c5ce-b551-42bb-806e-c1f205208deb.png)] bg-cover bg-no-repeat rounded-[50%] relative z-[19]' />
