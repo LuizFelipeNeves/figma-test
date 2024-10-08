@@ -24,3 +24,9 @@ textarea,
 button {
   outline: 0;
 }
+
+.main-container {
+  overflow: hidden;
+  width: 100%;
+  max-width: 100%;
+}
